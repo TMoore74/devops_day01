@@ -1,0 +1,6 @@
+README.md
+kosz.txt
+shell.exe
+test.py
+test2.py
+test3.py
